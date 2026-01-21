@@ -1,0 +1,2 @@
+This is a document for two way merging from feature branch.
+This is pushed after creation of feature branch.
